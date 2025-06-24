@@ -1,7 +1,7 @@
 ## 🌞 Automatic Solar Tracking System using Arduino
 An efficient solar tracking system using Arduino UNO, LDRs, and servo motors, designed to rotate solar panels automatically to follow the sun throughout the day, maximizing energy capture.
 
-##🚀 Features
+## 🚀 Features
 
 - Dual LDR (Light Dependent Resistors) to detect sunlight intensity.
 
